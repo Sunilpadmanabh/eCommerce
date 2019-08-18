@@ -20,3 +20,11 @@ insert into item (productId,description,name,price) values ('1','Skinny Men Blue
 insert into item (productId,description,name,price) values ('2','Slim Men Blue Jeans','Billion ','700'); 
 insert into item (productId,description,name,price) values ('3','Slim Men Blue Jeans','Numero Uno','600');
 insert into item (productId,description,name,price) values ('4','Skinny Men Blue Jeans','Wrangler ','900');
+
+
+
+Somethings wrong!!
+If you find that something's wrong with this package, you can let me know by raising an issue on the GitHub issue tracker
+
+Contribution
+Contributors are most welcome.
