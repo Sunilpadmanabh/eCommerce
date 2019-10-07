@@ -96,7 +96,7 @@ Features: Reset Time
 Strap style: Rose Gold-Toned bracelet style, stainless steel strap with a foldover closure
 Water Resistant','DressBerry ','1799');
 
-
+insert into item (productId,description,name,price) values ('33','Display: Analogue Movement: Quartz Power source: Battery Dial style: Solid round stainless steel dial Features: Reset Time Strap style: Black regular, synthetic strap with a tang closure Comes in a Fastrack case','Mini ','1190');
 
 
 Somethings wrong!!
